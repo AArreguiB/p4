@@ -1,6 +1,6 @@
 # Practica 4
 
-Además de crear la API, se ha integrado con la pagina web de la practica 2. Además, se ha desplegado en github pages
+Además de crear la API, se ha integrado con la pagina web de la practica 2. 
 
 | Método  | Ruta                            | Cuerpo (JSON)                   | Descripción                                            | Posibles Respuestas |
 |---------|---------------------------------|--------------------------------|------------------------------------------------------|----------------------|
